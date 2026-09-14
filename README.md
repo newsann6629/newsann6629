@@ -39,6 +39,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/newsann6629/newsann6629/snake-output/snake.svg" alt="Snake animation" />
 
 ###
